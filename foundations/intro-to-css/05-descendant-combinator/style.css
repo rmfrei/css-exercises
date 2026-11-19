@@ -1,1 +1,8 @@
 /* Add CSS Styling */
+.container .text {
+  color: rgb(255, 94, 0);
+  font-size: 50px;
+  background-color: yellow;
+  text-align: center;
+  line-height: 1.5;
+}
