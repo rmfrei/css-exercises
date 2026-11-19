@@ -1,13 +1,14 @@
-.click {
-    font-size: 28px;
-    font-family: Helvetica, "Times New Roman", sans-serif
+.inverted,
+.fancy {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
 }
 
-.click.yes {
-    color: white;
-    background-color: black;
+.inverted {
+  background-color: black;
+  color: white;
 }
 
-.click.no {
-    background-color: yellow;
+.fancy {
+  background-color: yellow;
 }
