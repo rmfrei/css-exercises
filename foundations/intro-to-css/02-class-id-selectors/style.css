@@ -1,1 +1,25 @@
-/* Add CSS Styling */
+.odd {
+  background-color: rgb(255, 167, 167);
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.evennumber {
+  font-family: "Times New Roman", Times, serif;
+}
+
+#two {
+  color: rgb(0, 0, 255);
+  font-size: 36px;
+  background-color: transparent;
+}
+
+#number4 {
+  color: black;
+  background-color:rgb(128, 255, 128);
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.oddnumber.number3 {
+  font-size: 24px;
+}
